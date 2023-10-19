@@ -28,6 +28,9 @@
     <module>
       microservice-config
     </module>
+    <module>
+      microservice-student
+    </module>
   </modules>
 
   <properties>
